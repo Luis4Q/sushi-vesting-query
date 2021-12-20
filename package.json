@@ -5,12 +5,12 @@
   "main": "dist/index.js",
   "license": "MIT",
   "dependencies": {
-    "@sushiswap/sushi-data": "lufycz/sushi-data#vesting",
+    "@sushiswap/sushi-data": "angel4Q/sushi-data#vesting",
     "commander": "^7.0.0",
     "ethereumjs-util": "^7.0.8",
     "ethers": "^5.0.31",
     "fs": "^0.0.1-security",
-    "graph-results-pager": "lufycz/graph-results-pager",
+    "graph-results-pager": "angel4Q/graph-results-pager",
     "ts-node": "^9.1.1",
     "typescript": "^4.1.3"
   },
